@@ -1,0 +1,9 @@
+#fetchButton {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px 20px; 
+    border: none;
+    cursor: pointer;
+}
